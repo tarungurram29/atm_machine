@@ -1,2 +1,2 @@
-# atm_machine
-Small project
+# atm_machine system using Java 
+Small project :)
